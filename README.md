@@ -18,25 +18,26 @@ Front-End | Software engineer :robot:. (In progress)
 - :video_game: I like to play video games
 - :computer: I love learning new things
 
-#### 👨🏻‍💻 Currently working on:
 
-<a><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
-<a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
-<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-<a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
-<a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
-<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-<a href="https://laravel.com/" title="Laravel"><img src="https://laravel.com/img/logomark.min.svg"/></a>
+#### <img align="center" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">  My programming skills:
+
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) &nbsp;&nbsp;&nbsp;
+![React Native](https://img.icons8.com/color/48/000000/react-native.png) &nbsp;&nbsp;&nbsp;
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) &nbsp;&nbsp;&nbsp;
+![npm](https://img.icons8.com/color/48/000000/npm.png) &nbsp;&nbsp;&nbsp;
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) &nbsp;&nbsp;&nbsp;
+![CSS3](https://img.icons8.com/color/48/000000/css3.png) &nbsp;&nbsp;&nbsp;
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) &nbsp;&nbsp;&nbsp;
+<img src="https://laravel.com/img/logomark.min.svg" width="5%"> &nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="6%"> &nbsp;&nbsp;&nbsp;
 
 
-<h4>Desktop Environment: </h4>
+#### <img align="center" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">  Desktop Environment:
 <p align="left">
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
+  <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" alt=windows10 width="60" height="60"/>
 </p>
 
 ### Github Stats
