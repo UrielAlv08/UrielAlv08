@@ -3,7 +3,7 @@
 
 # Hi, I'm Uriel <img align="center" src="https://media.giphy.com/media/H7r5XcQccQvlXPwUOR/giphy.gif" width="100">
 Software engineer :robot:.
-<div align="center">
+<div>
 <a href="https://www.linkedin.com/in/no%C3%A9-uriel-alvarado-ram%C3%ADrez-4a8ab3252/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/urialv08_/?hl=es-la" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/UrielAR08/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
@@ -42,7 +42,7 @@ Software engineer :robot:.
 
 ### Github Stats
 
-|![][mul-widget]      | [![][spotify-widget]][spotify-link] |
+|![][mul-widget]       [![][spotify-widget]][spotify-link] 
 
 [spotify-link]: https://open.spotify.com/track/48Zzcl2ifQpsVu1PHwnqKy
 [mul-widget]: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=UrielAlv08&layout=compact&card_width=417&show_icons=true&show_icons=true&theme=radical&utm_source=23bm26
