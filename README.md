@@ -2,7 +2,7 @@
 
 
 # Hi, I'm Uriel <img align="center" src="https://media.giphy.com/media/H7r5XcQccQvlXPwUOR/giphy.gif" width="100">
-Front-End | Software engineer :robot:.
+Software engineer :robot:.
 <div align="center">
 <a href="https://www.linkedin.com/in/no%C3%A9-uriel-alvarado-ram%C3%ADrez-4a8ab3252/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/urialv08_/?hl=es-la" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -42,13 +42,9 @@ Front-End | Software engineer :robot:.
 
 ### Github Stats
 
-|![][gh-stats-widget] | ![][streak-widget]                  |
-| :-----------------: | :---------------------------------: |
 |![][mul-widget]      | [![][spotify-widget]][spotify-link] |
 
 [spotify-link]: https://open.spotify.com/track/48Zzcl2ifQpsVu1PHwnqKy
-[gh-stats-widget]: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=UrielAlv08&count_private=true&theme=radical&show_icons=1&utm_source=23b26
-[streak-widget]: https://github-readme-streak-stats.herokuapp.com?user=UrielAlv08&theme=radical&card_width=360&date_format=d.m.y&utm_source=h2b3m26
 [mul-widget]: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=UrielAlv08&layout=compact&card_width=417&show_icons=true&show_icons=true&theme=radical&utm_source=23bm26
 [spotify-widget]: https://spotify-recently-played-readme.vercel.app/api?user=31x7ifb7s46ldfmx6yu5lfzhnoci&count=2
 
